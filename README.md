@@ -1,5 +1,3 @@
-![thumb-react-google-lighthouse](./alura-react-google-lighthouse.png)
-
 # ByteBooks
 
 App de uma editora de livros fictícia.
@@ -44,7 +42,3 @@ Após baixar o projeto, abra o terminal na pasta do projeto e execute o comando 
 Inicie o servidor de desenvolvimento com `npm run dev`.
 
 Agora vá até seu navegador e acesse http://localhost:5173/ ou o link que o terminal do Vite indicar 🏆
-
-## 📚 Mais informações do curso
-
-Gostou do projeto e quer aprender como implementá-lo? Você pode [acessar o curso de React: identificando problemas de perfomance com o Google Lighthouse](https://www.alura.com.br/TBD).
